@@ -1,0 +1,9 @@
+﻿const config = {
+  server_origin: process.env.NEXT_PUBLIC_SERVER_ORIGIN,
+  GOOGLE_CLIENT_ID: process.env.NEXT_PUBLIC_GOOGLE_CLIENT_ID,
+  GOOGLE_CLIENT_SECRET:process.env.NEXT_PUBLIC_GOOGLE_CLIENT_SECRET,
+  NEXTAUTH_SECRET: process.env.NEXT_PUBLIC_NEXTAUTH_SECRET,
+  NEXTAUTH_URL:  process.env.NEXT_PUBLIC_NEXTAUTH_URL,
+};
+
+export default config;
