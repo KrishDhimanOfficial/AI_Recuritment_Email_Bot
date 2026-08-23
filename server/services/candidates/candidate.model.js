@@ -3,9 +3,9 @@ import sequelize from '../../config/db.config.js';
 
 const Candidate = sequelize.define('candidate', {
     id: {
-        type: DataTypes.STRING,
+        type: DataTypes.UUID,
+        defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
-        autoIncrement: true,
     },
     messageId: {
         type: DataTypes.STRING,
