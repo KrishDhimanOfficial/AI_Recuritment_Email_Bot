@@ -1,6 +1,13 @@
 # Dependencies
 node_modules/
 
+# Environment files
+.env
+.env.*
+*.env
+!.env.sample
+!.env.example
+
 #storage
 storage/
 

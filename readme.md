@@ -1,5 +1,7 @@
 ![alt text](<Screenshot 2026-07-06 at 7.28.50 PM.png>)
 
+![alt text](<Screenshot 2026-10-11 at 4.16.17 PM.png>)
+
 <div align="center">
   <br />
   <div style="background: linear-gradient(to top right, #312e81, #1e1b4b); padding: 20px; border-radius: 12px; display: inline-block;">
