@@ -81,7 +81,7 @@
 
 All connections are securely managed by Google OAuth Identity Services. We do not store plain-text passwords for corporate accounts.
 
----
+----
 
 <p align="center">
   <small>© 2026 RecruitFlow. All rights reserved.</small>
